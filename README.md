@@ -10,5 +10,7 @@ Prototype Link: https://www.figma.com/proto/FLolmaa5DJzo7g1potMcDP/Task-2?node-i
 
 ![image alt](https://github.com/MukashifaFatima/UI-UX-Task2/blob/main/Screenshot%202025-10-22%20001038.png?raw=true)
 
+![image alt](https://github.com/MukashifaFatima/UI-UX-Task2/blob/main/Screenshot%202025-10-22%20001103.png?raw=true)
+
 ![image alt](https://github.com/MukashifaFatima/UI-UX-Task2/blob/main/Screenshot%202025-10-22%20001151.png?raw=true)
 
